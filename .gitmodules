@@ -1,0 +1,6 @@
+[submodule "pkg/backend/llm/llama"]
+	path = pkg/backend/llm/llama
+	url = https://github.com/go-skynet/go-llama.cpp.git
+[submodule "pkg/backend/llm/ggllm"]
+	path = pkg/backend/llm/ggllm
+	url = https://github.com/mudler/go-ggllm.cpp
